@@ -67,5 +67,3 @@ The IDX file format is used to store vectors and multidimensional matrices of va
 
 - Yann LeCun (Professor, The Courant Institute of Mathematical Sciences, New York University)
 - Corinna Cortes (Research Scientist, Google Labs, New York)
-
-Happy hacking!
